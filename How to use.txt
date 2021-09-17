@@ -5,7 +5,8 @@ Firstly:
 2. Download xampp and config it.(keep name and pass default) 
 3. Import .sql file to phpmyadmin
 4. Program contains images. Extract/copy this file at desktop.
-   go to line no 148-154 and change this line  C:\Users\****Your Desktop Name****\Desktop\20-0043-H_Appointment Scheduler\XYZ.png  
+   go to line no 148-154 and change this line  C:\Users\****Your Desktop Name****\Desktop\20-0043-H_Appointment Scheduler\XYZ.png
+   or you can remove those lines to get the program running.
 
 
 ----------------------------------------------------------------------------------------------------------
