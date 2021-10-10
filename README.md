@@ -1,5 +1,16 @@
 # Appointment_Scheduler
-Python tkinter based GUI
-Some sample screenshots:
-<blockquote class="imgur-embed-pub" lang="en" data-id="3VjZZv1"><a href="https://imgur.com/3VjZZv1">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-[img]https://i.imgur.com/iMbeEFT.png[/img]
+##Python tkinter based GUI
+###Some sample screenshots:
+Home Screen:
+!(https://imgur.com/3VjZZv1)
+Contact Us:
+!(https://imgur.com/Cw6wgKW)
+!(https://imgur.com/EDA4Eih)
+Form:
+!(https://imgur.com/CDXNn43)
+Doctors Screen:
+!(https://imgur.com/MzLChVo)
+Management:
+!(https://imgur.com/6nLGQec)
+Database:
+!(https://imgur.com/8XX3qO0)
