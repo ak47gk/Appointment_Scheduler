@@ -1,6 +1,10 @@
 # Appointment_Scheduler
 ## Python tkinter based GUI
-### Some sample screenshots:
+### About Project
+This project was for a online python class presentation. It's free to take help for your college project.
+This is my first tkinter based python app with 1 months of learing. So there are so many bugs and so many unnessesary lines. Took help from various youtube channels while doing this project.
+
+### Some screenshots:
 ### Home Screen:
 ![Imgur Image](https://imgur.com/3VjZZv1.jpg)
 ### Contact Us:
