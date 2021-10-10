@@ -1,17 +1,8 @@
 Firstly:
 1. Open cmd and run these commands:
+```
    pip install pymysql
    pip install pillow
+```
 2. Download xampp and config it.(keep name and pass default) 
 3. Import .sql file to phpmyadmin
-4. Program contains images. Extract/copy this file at desktop.
-   go to line no 148-154 and change this line  C:\Users\****Your Desktop Name****\Desktop\20-0043-H_Appointment Scheduler\XYZ.png
-   or you can remove those lines to get the program running.
-
-
-----------------------------------------------------------------------------------------------------------
-1. By running the program it will open at a homepage with more 3 tabs.
-2. 4th tab has two buttons. one will open the form for paitent window. another will open doctor's panel.
-3. doctor's panel has two tables. one will show all the appointment requests. another shows shedule of that day.
-4. "Manage" button opens another window which can use by admin to scheduling and error correcting.
-5. This program is bind with xampp/pymysql database. If the database is not connected than the buttons will not work and some windows may also not appear. *All the buttons are functioning*_without tab3 send button_
