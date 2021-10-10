@@ -145,13 +145,13 @@ def booknow():
     root.mainloop()
 
 
-image1=Image.open(r"C:\Users\UseR\Desktop\Appointment Scheduler\XYZloc.png")
+image1=Image.open(r"Images/XYZloc.png")
 map=ImageTk.PhotoImage(image1)
-image2=Image.open(r"C:\Users\UseR\Desktop\Appointment Scheduler\XYZ.png").resize((150, 150), Image.ANTIALIAS)
+image2=Image.open(r"Images/XYZ.png").resize((150, 150), Image.ANTIALIAS)
 logo=ImageTk.PhotoImage(image2)
-image3=Image.open(r"C:\Users\UseR\Desktop\Appointment Scheduler\facebook.png").resize((30, 30), Image.ANTIALIAS)
+image3=Image.open(r"Images/facebook.png").resize((30, 30), Image.ANTIALIAS)
 facebook=ImageTk.PhotoImage(image3)
-image4=Image.open(r"C:\Users\UseR\Desktop\Appointment Scheduler\twitter.png").resize((30, 30), Image.ANTIALIAS)
+image4=Image.open(r"Images/twitter.png").resize((30, 30), Image.ANTIALIAS)
 twitter=ImageTk.PhotoImage(image4)
 def jumptobooknow():
     tabControl.select(3)
@@ -621,3 +621,4 @@ buttonControl4= Button(tab4, text="Jump to appointment window", command=doctor).
 
 
 root.mainloop()
+
