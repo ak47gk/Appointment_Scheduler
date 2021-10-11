@@ -2,7 +2,7 @@
 ## Python tkinter based GUI
 ### About Project
 This project was for a online python class presentation. It's free to take help for your college project.
-This is my first tkinter based python app with 1 months of learing. So there are so many bugs and so many unnessesary lines. Took help from various youtube channels while doing this project.
+This is my first tkinter based python app. So there are many bugs. Took help from various youtube channels while doing this project.
 
 ### Some screenshots:
 ### Home Screen:
